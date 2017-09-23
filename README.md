@@ -1,9 +1,20 @@
-# Demo para [Vuenos Aires](https://www.meetup.com/vuenos-aires)
+# [#FrontendCon2017](https://frontend-con.io)
 
-### 📍 [Evento](https://www.meetup.com/preview/vuenos-aires/events/242994257)
-### 📹 [Video](https://youtu.be/AR2u7Z_o3WM)
+> ✨ Vue.js demo web app for #FrontendCon2017
 
-## Charlas
+![](../src/assets/new-logo.png)
 
-- 🗣 [@TucciMatias](https://twitter.com/TucciMatias): Revue: una recorrida por Vue.js (`master` branch) - [slides](http://slides.com/matiastucci/revue-una-recorrida-por-vue-js/fullscreen)
-- 🗣 [@DelvalleNicolas](https://twitter.com/DelvalleNicolas): Easy Data Flow with Vuex (`vuex` branch) - [slides](http://slides.com/ndelvalle/easy-data-flow-with-vuex/fullscreen)
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
