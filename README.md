@@ -5,6 +5,7 @@
 ![](./src/assets/new-logo.png)
 
 ### 📽 [Slides](https://speakerdeck.com/ianaya89/breaking-the-binary-world-with-vue-dot-js)
+### 💻 [Live Demo](https://speakerdeck.com/ianaya89/breaking-the-binary-world-with-vue-dot-js)
 
 ## Build Setup
 
