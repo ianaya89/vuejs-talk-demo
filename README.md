@@ -2,7 +2,7 @@
 
 > ✨ Vue.js demo web app for #FrontendCon2017
 
-![](../src/assets/new-logo.png)
+![](./src/assets/new-logo.png)
 
 ## Build Setup
 
