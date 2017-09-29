@@ -1,15 +1,13 @@
 {
-  "name": "vuenos-aires",
-  "description": "A Vue.js project",
+  "name": "vuejs-talk-demo",
+  "description": "The web app demo for Vue.js introduction",
   "version": "1.0.0",
-  "author": "Matias Tucci <matiastucci@gmail.com>",
-  "private": true,
+  "author": "Ignacio Anaya <ignacio.anaya89@gmail.com>",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "ferrocarriloeste": "^1.0.0",
     "vue": "^2.3.3"
   },
   "devDependencies": {
